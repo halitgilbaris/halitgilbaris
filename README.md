@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Baris!
+# 👋 Hi, I'm Baris
 
-![C++](https://shields.io) ![Git](https://shields.io)
 
 I am a Software Developer specializing in C++. My core interests lie in systems security, Windows API development, and desktop application engineering.
 

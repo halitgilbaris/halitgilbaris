@@ -8,7 +8,6 @@ I am a Software Developer specializing in C++. My core interests lie in systems 
 * 📝 **[Note App](https://github.com):** A streamlined C++ application designed for managing, organizing, and securely storing quick personal notes directly from the console.
 
 ## 📬 Connect with Me
-- 💼 [GitHub Profile](https://github.com)
 - 📧 Email: Bhalitgil250708@gmail.com
 
 

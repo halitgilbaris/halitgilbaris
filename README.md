@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Baris!
 
 <p align="left">
-  <img src="https://shields.io" alt="C++">
+  <img src="https://shields.io" alt="C++">&nbsp;
   <img src="https://shields.io" alt="Git">
 </p>
 
 I am a Software Developer specializing in C++. My core interests lie in systems security, Windows API development, and desktop application engineering.
 
 ## 🚀 Featured Project
-* 🔐 **[Windows DPAPI C++ Cryptor](https://github.com/halitgilbaris/win-crypt-vault):** A lightweight terminal application leveraging the Windows Data Protection API (DPAPI) to securely encrypt and decrypt local user messages.
+* 🔐 **[Windows DPAPI C++ Cryptor](https://github.com):** A lightweight terminal application leveraging the Windows Data Protection API (DPAPI) to securely encrypt and decrypt local user messages.
 
-* 📝 **[Note App](https://github.com/halitgilbaris/Note_app):** A streamlined C++ application designed for managing, organizing, and securely storing quick personal notes directly from the console.
+* 📝 **[Note App](https://github.com):** A streamlined C++ application designed for managing, organizing, and securely storing quick personal notes directly from the console.
 
 ## 📊 GitHub Metrics
 <p align="center">
@@ -19,5 +19,5 @@ I am a Software Developer specializing in C++. My core interests lie in systems 
 </p>
 
 ## 📬 Connect with Me
-- 💼 [GitHub Profile](https://github.com/halitgilbaris)
-- 📧 [![Email](https://shields.io)](mailto:Bhalitgil250708@gmail.com)
+- 💼 [GitHub Profile](https://github.com)
+- 📧 **Email:** Bhalitgil250708@gmail.com | <a href="mailto:Bhalitgil250708@gmail.com">Send an Email</a>

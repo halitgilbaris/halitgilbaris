@@ -14,10 +14,9 @@ I am a Software Developer specializing in C++. My core interests lie in systems 
 
 <table>
   <tr>
-    <td><a href="https://linkedin.com">👔 LinkedIn</a></td>
-    <td><a href="https://discord.gg">💬 Discord</a></td>
-    <td><a href="https://buymeacoffee.com">☕ Buy Me a Coffee</a></td>
-    <td><a href="https://github.com">💖 GitHub Sponsors</a></td>
+    <td><a href="https://www.linkedin.com/in/bar%C4%B1%C5%9F-halitgil/">👔 LinkedIn</a></td>
+    <td><a href="https://x.com/halitgilbaris61">🐦 X / Twitter</a></td>
+    <td><a href="https://www.reddit.com/user/halitgilbaris61/">🤖 Reddit</a></td>
   </tr>
 </table>
 

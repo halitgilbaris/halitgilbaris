@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Baris!
 
-<!--
-**halitgilbaris/halitgilbaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://shields.io" alt="C++">
+  <img src="https://shields.io" alt="Git">
+</p>
 
-Here are some ideas to get you started:
+I am a Software Developer specializing in C++. My core interests lie in systems security, Windows API development, and desktop application engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+* 🔐 **[Windows DPAPI C++ Cryptor]([https://github.com](https://github.com/halitgilbaris/win-crypt-vault)):** A lightweight terminal application leveraging the Windows Data Protection API (DPAPI) to securely encrypt and decrypt local user messages.
+
+* 📝 **[Note App]([https://github.com](https://github.com/halitgilbaris/Note_app)):** A streamlined C++ application designed for managing, organizing, and securely storing quick personal notes directly from the console.
+
+  
+
+## 📊 GitHub Metrics
+<p align="center">
+  <img src="https://vercel.app" alt="Halit's GitHub Stats" width="48%">
+  <img src="https://vercel.app" alt="Top Languages" width="48%">
+</p>
+
+## 📬 Connect with Me
+- 💼 [GitHub Profile]([https://github.com](https://github.com/halitgilbaris)
+- 📧 [![Email](https://shields.io)](mailto:Bhalitgil250708)

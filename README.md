@@ -10,7 +10,14 @@ I am a Software Developer specializing in C++. My core interests lie in systems 
 ## 📬 Connect with Me
 - 💼 [GitHub Profile](https://github.com)
 - 📧 Email: Bhalitgil250708@gmail.com
-<!-- LinkedIn Butonu -->
-<a href="https://www.linkedin.com/in/bar%C4%B1%C5%9F-halitgil/" target="_blank">
-  <img src="https://shields.io" alt="LinkedIn">
-</a>
+
+
+<table>
+  <tr>
+    <td><a href="https://linkedin.com">👔 LinkedIn</a></td>
+    <td><a href="https://discord.gg">💬 Discord</a></td>
+    <td><a href="https://buymeacoffee.com">☕ Buy Me a Coffee</a></td>
+    <td><a href="https://github.com">💖 GitHub Sponsors</a></td>
+  </tr>
+</table>
+
